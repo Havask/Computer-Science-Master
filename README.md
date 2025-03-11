@@ -1,3 +1,5 @@
+![Alt Text](/UitLogo.jpg)
+
 # Computer Science at UiT
 =======================================
 
